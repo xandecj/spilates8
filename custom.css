@@ -1,0 +1,47 @@
+@font-face {
+  font-family: Fingbanger;
+  src: url(fonts/Fingbanger.otf);
+}
+
+.sp-font {
+	font-family: Fingbanger;
+	color: #40304c;
+	font-weight: bold;
+}
+
+body {
+	background-color: #d1d1e4;
+}
+
+h4 {
+	color: #f07d28;
+	font-weight: bold;
+}
+
+h1 {		
+	color: #40304c;
+	font-weight: bold;
+	font-size: 2.1rem;
+	padding-top: 0.5rem;
+}
+@media (min-width: 992px) {
+	h1 {
+		padding-top: 4.5rem;
+	}
+}
+
+.xx {
+	margin-bottom: 4.5rem;
+}
+
+.navbar-custom {
+	background-color: #40304c;
+}
+
+.lead {
+	font-family: futura-lt-w01-book,sans-serif;
+}
+
+.footer {
+  background-color: #6f42c1;
+}
